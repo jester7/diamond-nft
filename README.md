@@ -5,9 +5,9 @@
 ### Live Demo
 
 
-To view a live demo of this project go to https://diamond-nft-test.netlify.app/
+Front end dApp not implemented yet, you can [mint directly on polygonscan](https://polygonscan.com/address/0x98c140535a233c069Ec661443f9ef2dA011A888c#writeContract). 
 
-[View sample collection on OpenSea](https://testnets.opensea.io/collection/)
+[View collection on OpenSea](https://opensea.io/collection/diamondnfttest)
 
 
 ## Usage
